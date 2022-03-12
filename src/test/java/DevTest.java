@@ -3,5 +3,13 @@ public class DevTest {
         System.out.println("Hello World");
         //Added New Lines
     }
+    public void add()
+    {
+        System.out.println(" Added Add Method");
+    }
+    public void substract()
+    {
+        System.out.println("Added substract method");
+    }
 
 }
